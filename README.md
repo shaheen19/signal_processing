@@ -15,30 +15,19 @@ The notebooks were developed using Python 3.7.1 on a Windows system and Anaconda
 
 This Gitrepository is comprised of following sections.
 
-## Notebooks
+## Data Files
 To run these notebooks, you would require following data files (provided via google drive). 
 1. licor850.csv (CO2 and water vapor measurements)
 2. ma300.csv     (BC measurements in the IR and UV spectrum)
 3. zephyrno.csv   (Nitric oxide NOx measurements)
 4. alpr.csv       (camera with a specialized software to read license plate and vehicle model and make)
 
+# Note books
+1. CO2, NO2 and BC data exploration and peak area measurements
+2. 
 
-Two new notebooks are added in this folder.
-1. SciKit-learn-MLR-stats-final
-This notebook provides information on statistical analysis conducted using Scikit-Learn.
-2. understanding_wildfires_cause_consequences
-This notebook provide information on processes responsible for ozone formation. 
-I have explored the effect of weather and chemical compostion on the ozone equilibrium,
-(net ozone= formation -destruction processes) 
-
-Previous notebook with preliminary data exploration
-3. San_Diego_2014_ wildfires_Time-series-analysis-of-the-air
-4. SanDiego_2014_wildfires_NDVI_DNBR-anaysis
-
-## Presentations
-Two powerpoint presentation describing 2014 wildfire events and atmospheric conditions. Work in progress.
-1. Time series analysis conducted earlier
-2. SD_fires_air_quality_06172020_final
+## Presentation
+A pdf file with detailed discussion on the data processing and evaluation.
 
 3. Wildfires SD_Causes and Consequences-blog
 4. sd_2014wildfires_blog (code cells hidden)
