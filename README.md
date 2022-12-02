@@ -16,27 +16,26 @@ The notebooks were developed using Python 3.7.1 on a Windows system and Anaconda
 This Gitrepository is comprised of following sections.
 
 ## Data Files
+The data folder contains metadata (detailed information on each data column) and data files.
 To run these notebooks, you would require following data files (provided via google drive). 
 1. licor850.csv (CO2 and water vapor measurements)
 2. ma300.csv     (BC measurements in the IR and UV spectrum)
 3. zephyrno.csv   (Nitric oxide NOx measurements)
 4. alpr.csv       (camera with a specialized software to read license plate and vehicle model and make)
 
-# Note books
+## Jupyter Notebooks
 1. CO2, NO2 and BC data exploration and peak area measurements
-2. 
+2. Automaed licese plate reader 
+3. Emission factor estimation based on the concentration of each pollutant and fuel carbon value.
+4. Merged data files based on the nearest stamp values and identification of high polluting vheicles. 
 
 ## Presentation
 A pdf file with detailed discussion on the data processing and evaluation.
 
-3. Wildfires SD_Causes and Consequences-blog
-4. sd_2014wildfires_blog (code cells hidden)
-
-### Test-notebooks
-The folder contain two sub folders for air quality and image processing. Each subfolder contains various files to test strategies to clean raw data and reduce file sizes to be used for the final project. Work in progress.
 
 ### Output files
 This folder contains output data files and figures. Work in progess. 
 
-PS: please note that this work is in progress and the repository will be updated frequently in the next few months. README.md file will be updated as work continue to progress.
+PS: please note that this work is in progress and the repository will be updated frequently in the next few months. 
+README.md file will be updated as work continue to progress.
 
