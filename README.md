@@ -29,7 +29,7 @@ To run these notebooks, you would require following data files (provided via goo
 3. Emission factor estimation based on the concentration of each pollutant and fuel carbon value.
 4. Merged data files based on the nearest stamp values and identification of high polluting vheicles. 
 
-### Output files
+### Output Files
 This folder contains output data files and figures. Work in progess. 
 
 ## Data Presentation
@@ -38,5 +38,6 @@ A pdf file with detailed discussion on the data processing and evaluation.
 
 
 PS: please note that this work is in progress and the repository will be updated frequently in the next few months. 
+
 README.md file will be updated as work continue to progress.
 
