@@ -1,5 +1,5 @@
 # On-Road Air Pollution Monitoring and Signal Processing
-In-situ measurements of air pollutants in the smoke plume are critical to identify highly polluting vehicles. This requires high frequency measurement and data logging systems. The signal acquired in the field unlike laboratory measurements is mixed with the background pollutants and instrumental noise.  A combination of wavelet transformation, peak area calculation and emission factor estimations were used in conjunction with a high speed camera and ALPR to track high polluting vehicles.
+In-situ measurements of air pollutants in the exhaust plume are critical to identify highly polluting vehicles. This requires high frequency measurement and data logging systems. The signal acquired in the field unlike laboratory measurements is mixed with the background pollutants and instrumental noise.  A combination of wavelet transformation, peak area calculation and emission factor estimations were used in conjunction with a high speed camera and ALPR to track high polluting vehicles.
 
 # Development Environment and Workflow
 These notebooks were developed using Python 3.7.1 on a Windows system and Anaconda python environment. 
